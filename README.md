@@ -17,9 +17,10 @@ Feel free to critque my code, add suggestions, if theres anything I should be wa
 
 ### Current Version Notes
 
--Able to take user string
--Able to convert characters into barcode39
--Output the user's barcode onto the Python GUI
+-Able to take user string                                      
+-Take string and convert it to barcode 39
+-Able to convert characters into barcode39                                                                  
+-Output the user's barcode onto the Python GUI                                     
 
 <!-- CONTACT -->
 ## Contact
