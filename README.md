@@ -27,6 +27,6 @@ Feel free to critque my code, add suggestions, if theres anything I should be wa
 
 Cyrus Baybay - [@CyrusBaebae](https://twitter.com/CyrusBaebae) - https://twitter.com/CyrusBaebae
 
-Project Link: [https://github.com/BaybayC/WebScrapeGrades](https://github.com/BaybayC/WebScrapeGrades)
+Project Link: [https://github.com/TRA3H/Barcode-Creator](https://github.com/TRA3H/Barcode-Creator)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
